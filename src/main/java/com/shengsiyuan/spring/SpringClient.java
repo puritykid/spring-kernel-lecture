@@ -50,7 +50,4 @@ public class SpringClient {
         System.out.println(student.getName());
         System.out.println(student.getAge());
     }
-
-
-
 }
